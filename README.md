@@ -1,22 +1,26 @@
-# **Twitter Bootstrap**
+# **Super Homework GIT 2.2**
 
-## Начало работы [оф сайт]()
+## "История и работа с ветками"
 
-Варианты установки:
+### Важная задача 
 
-* СDN
+<details>
+<summary>TOP SECRET</summary>
 
-* NVPM
-
-### Установка через CDN
-
-### Установка через NPM
-
-1. Выполнить команду
-
-2. Выполнить 
-
-## Использование
-
+1. JavaScript
 ```javascript
-console.log()
+<script src="https://localhost/neuro.sdk.min.js"></script>
+```
+2. Java (Maven)
+```xml
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+3. iOS 
+```
+platform :ios, '8.0'
+pod "neuro-ios-sdk"
+```
